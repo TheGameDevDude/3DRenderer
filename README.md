@@ -12,8 +12,7 @@ Custom rasterizing pipeline without using any external graphics libraries.
 | Action | Key |
 |--------|-----|
 | Move Around | <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd>|
-| Move Up |  <kbd>Space</kbd> |
-| Move Down | <kbd>Shift</kbd>|
+| Move Up |  <kbd>Jump</kbd> |
 
 **Mouse**
 
